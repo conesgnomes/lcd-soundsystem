@@ -1,0 +1,19 @@
+.sidebar {
+  float: left;
+  width: 25%;
+  border: 3px solid teal;
+  font-family: sans-serif;
+}
+.photos {
+  float: right;
+  width: 70%;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+h3 {
+  text-align: center;
+}
